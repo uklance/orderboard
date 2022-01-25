@@ -1,0 +1,16 @@
+[
+  {
+    "coinType": "ETH",
+    "side": "BUY",
+    "quantity": 11,
+    "currency": "GBP",
+    "price": 20
+  },
+  {
+    "coinType": "ETH",
+    "side": "SELL",
+    "quantity": 3,
+    "currency": "GBP",
+    "price": 10
+  }
+]

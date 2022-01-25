@@ -1,0 +1,66 @@
+[
+  {
+    "userId" : "user1",
+    "coinType" : "ETH",
+    "side" : "SELL",
+    "quantity" : 350.1,
+    "currency" : "GBP",
+    "price" : 13.6
+  },
+  {
+    "userId" : "user2",
+    "coinType" : "ETH",
+    "side" : "SELL",
+    "quantity" : 50.5,
+    "currency" : "GBP",
+    "price" : 14
+  },
+  {
+    "userId" : "user3",
+    "coinType" : "ETH",
+    "side" : "SELL",
+    "quantity" : 441.8,
+    "currency" : "GBP",
+    "price" : 13.9
+  },
+  {
+    "userId" : "user4",
+    "coinType" : "ETH",
+    "side" : "SELL",
+    "quantity" : 3.5,
+    "currency" : "GBP",
+    "price" : 13.6
+  },
+  {
+    "userId" : "user1",
+    "coinType" : "BTC",
+    "side" : "BUY",
+    "quantity" : 350.1,
+    "currency" : "GBP",
+    "price" : 13.6
+  },
+  {
+    "userId" : "user2",
+    "coinType" : "BTC",
+    "side" : "BUY",
+    "quantity" : 50.5,
+    "currency" : "GBP",
+    "price" : 14
+  },
+  {
+    "userId" : "user3",
+    "coinType" : "BTC",
+    "side" : "BUY",
+    "quantity" : 441.8,
+    "currency" : "GBP",
+    "price" : 13.9
+  },
+  {
+    "userId" : "user4",
+    "coinType" : "BTC",
+    "side" : "BUY",
+    "quantity" : 3.5,
+    "currency" : "GBP",
+    "price" : 13.6
+  }
+]

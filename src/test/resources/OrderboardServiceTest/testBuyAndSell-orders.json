@@ -1,0 +1,34 @@
+[
+  {
+    "userId" : "user1",
+    "coinType" : "ETH",
+    "side" : "BUY",
+    "quantity" : 1,
+    "currency" : "GBP",
+    "price" : 10
+  },
+  {
+    "userId" : "user1",
+    "coinType" : "ETH",
+    "side" : "SELL",
+    "quantity" : 4,
+    "currency" : "GBP",
+    "price" : 10
+  },
+  {
+    "userId" : "user1",
+    "coinType" : "ETH",
+    "side" : "SELL",
+    "quantity" : 50,
+    "currency" : "GBP",
+    "price" : 20
+  },
+  {
+    "userId" : "user1",
+    "coinType" : "ETH",
+    "side" : "BUY",
+    "quantity" : 61,
+    "currency" : "GBP",
+    "price" : 20
+  }
+]
